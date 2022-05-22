@@ -1,3 +1,8 @@
+/*
+Mostrar o CPF, nome dos empregados e o nome do departamento dos empregados que não trabalham em nenhum projeto. O resultado deve estar ordenado por cpf 
+*/
+
+
 SELECT 
 	empregados.cpf
 	,empregados.enome

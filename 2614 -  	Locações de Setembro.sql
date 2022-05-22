@@ -1,3 +1,6 @@
+/*
+A vídeo locadora está fazendo seu relatório semestral e precisa da sua ajuda. Basta você selecionar o nome dos clientes e a data de locação, das locações realizadas no mês de setembro de 2016.
+*/
 SELECT 
 	customers.name
 	,rentals.rentals_date
