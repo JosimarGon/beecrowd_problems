@@ -166,7 +166,7 @@
     <tr>
         <td>2745</td>
         <td><a href="https://www.beecrowd.com.br/repository-sql/2745.sql">Taxas</a></td>
-        <td></td>
+        <td>WHERE</td>
     </tr>
     <tr>
         <td>2746</td>
