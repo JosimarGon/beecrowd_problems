@@ -1,5 +1,5 @@
 <h1>Problemas em SQL</h1>
-<body>Os problemas em SQL, estáo disponíveis na plataforma <a href ="https://www.beecrowd.com.br/judge/pt">Beecrowd</a> e utilizam PostgreSQL como gerenciador de  Banco de Dados.</body>
+<body>Os problemas em SQL estáo disponíveis na plataforma <a href ="https://www.beecrowd.com.br/judge/pt">Beecrowd</a> e utilizam PostgreSQL como gerenciador de  Banco de Dados.</body>
 <h3>Resolução</h3>
 
 <table border="1">
